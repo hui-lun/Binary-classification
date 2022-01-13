@@ -1,2 +1,2 @@
-# Binary-classification-
+# Binary-classification
 Kaggle competition
